@@ -1,0 +1,7 @@
+[0122/122640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0122/122640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0122/122640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0122/122640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0122/122640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0122/123227.398:INFO:CONSOLE(266)] "Failed to parse video contentType: video/mp4; codecs=avc1.42000a", source: https://web.whatsapp.com/app.26ed67124a887965b349.js (266)
+[0122/123227.400:INFO:CONSOLE(266)] "Failed to parse video contentType: video/mp4; codecs=hev1.1.6.L93.B0", source: https://web.whatsapp.com/app.26ed67124a887965b349.js (266)
